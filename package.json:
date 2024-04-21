@@ -1,0 +1,12 @@
+{
+  "name": "tea-project",
+  "version": "1.0.0",
+  "description": "A simple command-line ToDo List tool created by Kira",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kira",
+  "license": "MIT"
+}
